@@ -51,9 +51,6 @@ Données brut complète:
         scrap_2019.csv
         scrap_2020.csv
         scrap_2021.csv
-    
-    PDF:
-        PDF_scraping.zip
 
     Données enrichie et transformé :
         conspiracy_theories_data.csv
@@ -125,20 +122,7 @@ scrap_all.csv (identique pour les autres fichiers de données brut)
         pdflink : Texte
         auteurEditeur : Texte
         cite : Texte
-        version : Texte
-
-PDF_scraping.zip
-    
-    Contient deux dossiers :
-        pdf_sans_fichier_corrompu : Contient tous les fichiers au format pdf extrait via le lien de la colonne "pdflink" du fichier scrap_all.csv
-        pdf_corrompu : Contient tous les fichiers corrumpu extrait via le lien de la colonne "pdflink" du fichier scrap_all.csv
-    
-
-    Format des données:
-
-        pdf_sans_fichier_corrompu : fichier pdf
-        pdf_corrompu : ?
-    
+        version : Texte    
 
 conspiracy_theories_data.csv
 
