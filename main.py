@@ -5,24 +5,19 @@ import time
 import csv
 
 
-
-#urltest = 'http://api.proxiesapi.com/?auth_key=a5f51fa40009224a1103428100135904_sr98766_ooPq87&url=https://9gag.com/trending'
 #urlAPI = 'http://api.proxiesapi.com/?auth_key=a5f51fa40009224a1103428100135904_sr98766_ooPq87&url=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conspiracy+on+social+media&btnG='
 urlpartie1 = 'https://scholar.google.com/scholar?start='
 urlpartie2 = '&q=%22social+media%22+AND+%22conspiracy+theories%22&hl=en&as_sdt=0,5&as_ylo=2019&as_yhi=2019&as_vis=1'
 
 #url_settings = 'https://scholar.google.com/scholar_settings?q=conspiracy+on+social+media&hl=en&as_sdt=0,5'
 chrome_options = webdriver.ChromeOptions()
-#Dans quel dossier les fichier EndNote vont etre telecharger
-#prefs = {'download.default_directory' : r'C:\Users\stephaneTRV\PycharmProjects\webScraping\fichier_EndNote'}
-#chrome_options.add_experimental_option('prefs', prefs)
 
 
 #Fake user agent pour essayer d eviter les captcha
 #ua = UserAgent()
 #userAgent = ua.random
 #chrome_options.add_argument(f'user-agent={userAgent}')
-driver = webdriver.Chrome(executable_path=r"/Users/stephane/Desktop/webScraping/chromedriver"
+driver = webdriver.Chrome(executable_path=r"***path***"
                           ,options=chrome_options)
 
 # Modifier viewport
