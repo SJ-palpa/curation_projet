@@ -2,7 +2,7 @@ import os
 import csv
 import requests
 
-write_path = '/Users/stephane/Desktop/webScraping/pdf_cc'  # ASSUMING THAT FOLDER EXISTS!
+write_path = '***path***'  # ASSUMING THAT FOLDER EXISTS!
 
 with open('list_pdf_cc.csv', 'r') as csvfile:
     spamreader = csv.reader(csvfile)
