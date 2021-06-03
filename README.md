@@ -32,11 +32,12 @@ Référence bibliographique de ce jeu de données: -
 
 Références bibliographiques et hyperliens aux publications liées à ce jeu de données: -
 
-Autres liens permettant le libre accès à ce jeu de données:     https://github.com/SJ-palpa/curation_projet
+Autres liens permettant le libre accès à ce jeu de données:     
+    https://github.com/SJ-palpa/curation_projet
 
-                                                                                                  https://zenodo.org/record/4843312#.YLUeLqgzaUk
+    https://zenodo.org/record/4843312#.YLUeLqgzaUk
 
-                                                                                                  http://5.196.70.206/data/Besson_Jermini_Crausaz/page_web.html                                
+    http://5.196.70.206/data/Besson_Jermini_Crausaz/page_web.html                                
 
 -----------------------------
 APERÇU DES DONNÉES & FICHIERS
