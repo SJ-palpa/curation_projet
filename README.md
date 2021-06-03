@@ -30,7 +30,7 @@ Licences/restrictions en lien avec les données, ou limitations d'utilisation: C
 
 Référence bibliographique de ce jeu de données: -
 
-Références bibliographiques et hyperliens aux publications liées à ce jeu de données: -
+Références bibliographiques et hyperliens des publications liées à ce jeu de données: -
 
 Autres liens permettant le libre accès à ce jeu de données:
 
@@ -46,7 +46,7 @@ APERÇU DES DONNÉES & FICHIERS
 
 Liste des fichiers:
 
-Données brut complète:
+Données brutes complètes:
     scrap_all.csv
     
     Données brut par années:
@@ -57,16 +57,14 @@ Données brut complète:
     Données enrichie et transformé :
         conspiracy_theories_data.csv
         
-            
-Données supplémentaires colligées, en lien avec ce jeu de données, qui ne sont pas incluses ici: https://www.psycharchives.org/handle/20.500.12034/4095
-
+  
 --------------------------
 INFORMATION METHODOLOGIQUE
 --------------------------
 
 Description de la méthodologie de collecte/production des données: 
 
-Ce jeu de données correspond au scraping de 3 années depuis la plateforme web Google Scholar (https://scholar.google.com/). Voici les paramètres que nous avons utilisés pour Google Scholar: 
+Ce jeu de données correspond au scraping de 3 années depuis la plateforme web Google Scholar (https://scholar.google.com/). Voici les paramètres que nous avons utilisé pour Google Scholar:
 
 -exclure brevet
 
