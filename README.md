@@ -66,13 +66,13 @@ Description de la méthodologie de collecte/production des données:
 
 Ce jeu de données correspond au scraping de 3 années depuis la plateforme web Google Scholar (https://scholar.google.com/). Voici les paramètres que nous avons utilisé pour Google Scholar:
 
--exclure brevet
+-exclure brevets
 
 -exclure citations
 
 Notre recherche a été faite avec les termes suivants : "social media" AND "conspiracy theories"
 
-Ce jeu de données se concentre sur les années 2019, 2020 et 2021. Pour chaque années 700 résultats de Google Scholar on été scrapé.
+Ce jeu de données se concentre sur les années 2019, 2020 et 2021. Pour chaque années 720 résultats de Google Scholar ont été scrapés.
 
 Pour chacun de ces résultats nous avons récupéré 7 champs que nous avons mis dans les 7 colonnes de notre fichier dataset:
 
@@ -100,7 +100,8 @@ Identifier les personnes impliquées dans la collecte, le traitement, l'analyse 
 RENSEIGNEMENTS CONCERNANT LE CONTENU DES FICHIERS DE DONNÉES 
 
 ------------------------------------------------------------
-scrap_all.csv (identique pour les autres fichiers de données brut)
+scrap_all.csv (identique pour les autres fichiers de données brutes)
+
 
     Nombre de variables: 7
 
