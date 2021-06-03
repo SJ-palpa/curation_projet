@@ -2,7 +2,7 @@ import os
 from PyPDF2 import PdfFileReader
 import csv
 
-directoryPath = "/Users/stephane/Desktop/webScraping/pdf_cc/"
+directoryPath = "***path***"
 
 
 def get_info(path):
